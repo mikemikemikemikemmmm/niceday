@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/niceday/static/media/fea2.86376c98.jpg"
   },
   {
-    "revision": "85ade7dd99ff4b95845b",
-    "url": "/niceday/static/css/main.b2ba6dc2.chunk.css"
+    "revision": "1fb9096da1835370e0c7",
+    "url": "/niceday/static/css/main.fc7eda2c.chunk.css"
   },
   {
     "revision": "01e00f3d41b0957af153",
     "url": "/niceday/static/js/runtime~main.13911bdf.js"
   },
   {
-    "revision": "e4694e62c3bdb6189b9c",
-    "url": "/niceday/static/js/2.21797b56.chunk.js"
+    "revision": "91d3fd0764dd171e1531",
+    "url": "/niceday/static/js/2.5cd2dbc4.chunk.js"
   },
   {
     "revision": "e35d385b133b2fbd15afa7a652192297",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/niceday/static/media/fea1.c5dc4708.jpg"
   },
   {
-    "revision": "85ade7dd99ff4b95845b",
-    "url": "/niceday/static/js/main.598921e5.chunk.js"
+    "revision": "1fb9096da1835370e0c7",
+    "url": "/niceday/static/js/main.8afdf70e.chunk.js"
   },
   {
     "revision": "bd393d5b37f52d7ad0f9b38faac974c6",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/niceday/static/media/slogan3.4b371975.svg"
   },
   {
-    "revision": "45739845ab4962bbccbabd17bc932d00",
+    "revision": "a256c79f9bdf396d06a9c0c88069ed03",
     "url": "/niceday/index.html"
   }
 ];
