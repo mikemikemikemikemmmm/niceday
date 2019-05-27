@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/niceday/precache-manifest.098b159d4011cc2a6e92d84e268700f2.js"
+  "/niceday/precache-manifest.20fa81223728cbc5c1bf840d35a8c9d1.js"
 );
 
 workbox.clientsClaim();
